@@ -9,6 +9,6 @@ iphone.InstalarAplicativo("CapCut");
 
 Console.WriteLine("Smartphone Nokia");
 Smartphone nokia = new Nokia("6789", "G11", "7410852963", 256);
-iphone.Ligar();
-iphone.ReceberLigacao();
-iphone.InstalarAplicativo("Tiktok");
+nokia.Ligar();
+nokia.ReceberLigacao();
+nokia.InstalarAplicativo("Tiktok");
