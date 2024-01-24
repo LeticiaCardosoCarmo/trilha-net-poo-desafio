@@ -7,7 +7,7 @@ iphone.Ligar();
 iphone.ReceberLigacao();
 iphone.InstalarAplicativo("CapCut");
 
-Console.WriteLine("Smartphone IPhone");
+Console.WriteLine("Smartphone Nokia");
 Smartphone nokia = new Nokia("6789", "G11", "7410852963", 256);
 iphone.Ligar();
 iphone.ReceberLigacao();
